@@ -1,1 +1,1 @@
-# OUDailySentimentAnaylsis
+# OUDailySentimentAnalysis
